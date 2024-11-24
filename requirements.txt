@@ -1,3 +1,4 @@
+opencv-python-headless
 ultralytics==8.3.36
 scikit-image
 streamlit
